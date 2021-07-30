@@ -113,6 +113,10 @@
   url: https://owasp.org/www-project-purpleteam/
   backgroundSize: 125px
   type: Project
-  
+- logo: 
+  name: OWASP Zhytomyr Chapter 
+  url: /assets/images/supporters/ModSecurityProjectLogo.png
+  backgroundSize: 125px
+  type: Chapter
   
   
