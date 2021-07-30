@@ -108,3 +108,11 @@
   url: https://owasp.org/www-chapter-germany/
   backgroundSize: 125px
   type: Chapter
+- logo: 
+  name: PurpleTeam
+  url: https://owasp.org/www-project-purpleteam/
+  backgroundSize: 125px
+  type: Project
+  
+  
+  
