@@ -115,8 +115,13 @@
   type: Project
 - logo: 
   name: OWASP Zhytomyr Chapter 
-  url: /assets/images/supporters/ModSecurityProjectLogo.png
+  url: https://owasp.org/www-chapter-zhytomyr/
   backgroundSize: 125px
   type: Chapter
-  
+- logo: 
+  name: OWASP Uruguay Chapter 
+  url: https://owasp.org/www-chapter-uruguay/
+  backgroundSize: 125px
+  type: Chapter
+    
   
