@@ -7,10 +7,11 @@
     - title: Flagship Project Track Episode Two  
       url : https://soundcloud.com/owasp-podcast/owasp-flagship-projects-episode-02
  - title: KEYNOTES
+   items: 
     #  url : /
     - title: Keynote Speakers
     #  url : /
-   # - title: Call for Speakers
+    # - title: Call for Speakers
     #  url : https://owasp.submittable.com/submit/189297/owasps-20th-anniversary-call-for-speakers
 - title: SPONSOR
   items:
