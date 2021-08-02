@@ -2,7 +2,7 @@
 
 title: Keynotes
 layout: event_noheader-2.0
-permalink: /https://github.com/OWASP/www-event-2021-20th-Anniversary/blob/master/_data/keynotes.yml/
+permalink: /program/keynotes/
 
 ---
 <section class="member-list">
