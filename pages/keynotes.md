@@ -6,7 +6,7 @@ permalink: /program/keynotes/
 
 ---
 <section class="member-list">
-{% for keynote in site.data.keynote %}
+{% for keynote in site.data.keynotespeakers %}
 {%- if keynote.logo -%}
 <div style="float:left;"><a href="{{keynote.url}}" class="keynote-logo" style="filter:none;"><img src="{{keynote.logo}}"/></a></div>
 {% else %}
