@@ -32,7 +32,7 @@
   name: OWASP AntiSamy Project
   url: https://owasp.org/www-project-antisamy/
   backgroundSize: 125px
-  type: Project
+  type: Chapter
 - logo: /assets/images/supporters/WSTG-Shield-400-Gradient.png
   name: OWASP Web Security Testing Guide
   url: https://owasp.org/www-project-web-security-testing-guide/
@@ -127,5 +127,24 @@
   name: OWASP Singapore Chapter
   url: https://owasp.org/www-chapter-singapore/
   backgroundSize: 125px
-  type: Chapter   
-  
+  type: Chapter
+- logo: 
+  name: OWASP Cornucopia
+  url: https://owasp.org/www-project-cornucopia/
+  backgroundSize: 125px
+  type: Project
+- logo: 
+  name: OWASP Application Security Curriculum
+  url: https://owasp.org/www-project-application-security-curriculum/
+  backgroundSize: 125px
+  type: Project
+- logo: 
+  name: OWASP Dependency Check
+  url: https://owasp.org/www-project-dependency-check/
+  backgroundSize: 125px
+  type: Project
+- logo: 
+  name: OWASP JKPG Chapter 
+  url: https://owasp.org/www-chapter-jkpg/
+  backgroundSize: 125px
+  type: Chapter
