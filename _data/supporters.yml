@@ -148,3 +148,9 @@
   url: https://owasp.org/www-chapter-jkpg/
   backgroundSize: 125px
   type: Chapter
+- logo: 
+  name: OWASP Java Encoder
+  url: https://owasp.org/www-project-java-encoder/
+  backgroundSize: 125px
+  type: Project
+
