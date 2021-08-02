@@ -1,12 +1,12 @@
+#- image: /assets/images/keynotes/20th_FB_Keynote_Post_Mark Curphey.jpeg
+  name: Mark Curphey
+  title: The History and Future of OWASP
+- image: /assets/images/keynotes/20th_FB_Keynote_Post_Eva Galperin.jpeg
+  name: Eva Galperin
+  title: Dirctor of Cybersecurity
 - image: /assets/images/keynotes/20th_FB_Keynote_Post_Chris Wysopal.jpeg
   name: Chris Wysopal
   title: Chief Technology Officer
   #bio  : <p>Descriptive bio text.</p>
   #subject:
   #abstract:
-- image: /assets/images/keynotes/20th_FB_Keynote_Post_Eva Galperin.jpeg
-  name: Eva Galperin
-  title: Dirctor of Cybersecurity
-#- image: /assets/images/keynotes/20th_FB_Keynote_Post_Mark Curphey.jpeg
-  name: Mark Curphey
-  title: The History and Future of OWASP
