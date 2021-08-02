@@ -13,6 +13,6 @@
 - image: 20th_FB_Keynote_Post_Chris_Wysopal.jpeg
   name: Chris Wysopal
   title: Chief Technology Officer
-  #bio  : <p>Descriptive bio text.</p>
+  bio: <p>Chris Wysopal, Veracode's CTO and co-founder, is responsible for the company's software security analysis capabilities. One of the original vulnerability researchers and a member of L0pht Heavy Industries, he has testified on Capitol Hill in the US on the subjects of government computer security and how vulnerabilities are discovered in software. He published his first advisory in 1996 on parameter tampering in Lotus Domino and has been trying to help people not repeat this type of mistake for 25 years. Chris started his professional application security journey in 2000 at the pioneering security consultancy @stake where he was VP of Research. Following on with his research in static analysis he founded Veracode with Christien Rioux in 2006. He graduated with a Bachelor of Science degree in computer & systems engineering from Rensselaer Polytechnic Institute. He is also the author of "The Art of Software Security Testing" published by Addison-Wesley.</p>
   #subject:
   #abstract:
