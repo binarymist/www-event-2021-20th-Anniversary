@@ -1,35 +1,25 @@
 - title: HOME
   url: /
-- title: SNEAK PEEK
-  items:
-    - title: Flagship Project Track Episode One
-      url : https://soundcloud.com/owasp-podcast/owasp-flagship-projects-episode-01
-    - title: Flagship Project Track Episode Two  
-      url : https://soundcloud.com/owasp-podcast/owasp-flagship-projects-episode-02
-- title: KEYNOTES
+- title: SPEAKERS
   items: 
     - title: Keynote Speakers
-    #  url : /
-- title: SPEAKERS
-  items:
+      url : /keynotes/
     - title: Speakers
-    #  url : /
-- title: SPONSOR
+      url : /speakers/
+- title: SUPPORT US
   items:
     - title: Sponsorship Opportunities
       url  : /sponsors/
-    #- title: Volunteer
-    #  url  : /
-    #- title: Venue, Travel, & Lodging
-    #  url  : /
-    #- title: Progam Team
-    #  url  : /
-- title: SUPPORTERS
-  url  : /supporters/
-- title: GET INVOLVED
-  url: https://owasp.wufoo.com/forms/20th-anniversary-event-moderator-interest-form/
-- title: MEMORABILIA
+    - title: Supporters
+      url  : /supporters/
+    - title: Get Involved
+      url: https://owasp.wufoo.com/forms/20th-anniversary-event-moderator-interest-form/
+- title: MORE
   items:
+    - title: Sneak Peek: Flagship Project Track Episode One
+      url: https://soundcloud.com/owasp-podcast/owasp-flagship-projects-episode-01
+    - title: Sneak Peek: Flagship Project Track Episode Two
+      url: https://soundcloud.com/owasp-podcast/owasp-flagship-projects-episode-02
     - title: 20th Anniversary Event Memorabilia
       url: https://www.zazzle.com/store/owasp_foundation/products
     
