@@ -2,22 +2,9 @@
   Email: test.test@owasp.org
   Image: /assets/images/OWASP_20th_Anniversary.svg
   Twitter: 'testhandle'
-  Biography: >-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-        quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse 
-        cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  Biography:
   TrainerId: johann_johann1
   Title: Hands-on Cyber in Security
   URL: 
   SectionId: sku_johannjohann1
-  Description: >-
-    An action-packed cybersecurity course for DevSecOps to improve interaction with a focus on manual locution and agility.
-    The training includes group exercises for better understanding of the
-    following topics.
-    <ul>
-    <li>DevOps for Agile teams</li>
-    <li>Automation's Role in Development, Security, and Operations</li>
-    <li>Modelling the Threats</li>
-    <li>The Cloud with the Silver Lining</li>
-    </ul>
-    So be sure to sign up and prepare to learn how security is cyberrific.
+  Description:
