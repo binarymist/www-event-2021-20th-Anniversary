@@ -53,6 +53,11 @@
   url: https://hdivsecurity.com/
   backgroundSize: 125px
   type: Premier Sponsor
+- logo: /assets/images/sponsors/imvision-logo.png
+  name: Imvision
+  url: https://www.imvision.ai/
+  backgroundSize: 125px
+  type: Premier Sponsor
 - logo: /assets/images/sponsors/IriusRiskNEWlogo.png
   name: IriusRisk
   url: https://iriusrisk.com/
