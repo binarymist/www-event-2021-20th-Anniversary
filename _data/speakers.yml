@@ -1,8 +1,24 @@
-- Name: Pedro Fortuna and Jasvir Nagra 
-  Email: test.test@owasp.org
-  Image: /assets/images/OWASP_20th_Anniversary.svg
-  Twitter: '@jasvir'
+- Talk:
+  Speakers:
+    - Name: Speaker One
+      Email: test.test@owasp.org
+      Image: /assets/images/OWASP_20th_Anniversary.svg
+      URL:
+    - Name: Speaker Two
+      Email: test.test@owasp.org
+      Image: /assets/images/OWASP_20th_Anniversary.svg      
+      URL:
+  Title: Hands-on Cyber in Security
   TalkURL:
-  Title: "Achieving the Web Isolation Nirvana - How far along are we?"
-  URL: 
-  
+- Talk:
+  Speakers:
+    - Name: Pedro Fortuna
+      Email: test.test@owasp.org
+      Image: /assets/images/OWASP_20th_Anniversary.svg
+      URL:
+    - Name: Jasvir Nagra 
+      Email: test.test@owasp.org
+      Image: /assets/images/OWASP_20th_Anniversary.svg
+      URL:
+  Title: Achieving the Web Isolation Nirvana - How far along are we?
+  TalkURL: 
