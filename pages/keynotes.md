@@ -2,7 +2,7 @@
 
 title: Keynotes
 layout: event_noheader-2.0
-permalink: /program/keynotes/
+permalink: /keynotes/
 
 ---
 
