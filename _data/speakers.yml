@@ -12,6 +12,18 @@
   TalkURL:
 - Talk:
   Speakers:
+    - Name: Christian Schneider
+      Email: test.test@owasp.org
+      Image: /assets/images/OWASP_20th_Anniversary.svg
+      URL: https://owasp20thanniversaryevent20.sched.com/
+    #- Name: Speaker Two
+      #Email: test.test@owasp.org
+      #Image: /assets/images/OWASP_20th_Anniversary.svg      
+      #URL:
+  Title: Agile Threat Modeling with Open-Source Tools
+  TalkURL:
+- Talk:
+  Speakers:
     - Name: Pedro Fortuna
       Email: test.test@owasp.org
       Image: /assets/images/20th_FB_Speaker_Post_Pedro_Jasvir.jpeg
