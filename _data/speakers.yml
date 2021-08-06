@@ -1,5 +1,101 @@
 - Talk:
   Speakers:
+    - Name: Ovidiu Cical
+      Email: test.test@owasp.org
+      Image: /assets/images/OWASP_20th_Anniversary.svg
+      URL: https://owasp20thanniversaryevent20.sched.com/
+    #- Name:
+      #Email: test.test@owasp.org
+      #Image: /assets/images/OWASP_20th_Anniversary.svg      
+      #URL: https://owasp20thanniversaryevent20.sched.com/
+  Title: "Your company, as a Knowledge Graph - the foundation of cybersecurity’s future"
+  TalkURL:
+- Talk:
+  Speakers:
+    - Name: Marcin Szydlowski
+      Email: test.test@owasp.org
+      Image: /assets/images/OWASP_20th_Anniversary.svg
+      URL: https://owasp20thanniversaryevent20.sched.com/
+    #- Name:
+      #Email: test.test@owasp.org
+      #Image: /assets/images/OWASP_20th_Anniversary.svg      
+      #URL: https://owasp20thanniversaryevent20.sched.com/
+  Title: "Your code might be secure, but what about your pipeline? Challenges of securing build/deployment environment."
+  TalkURL:
+- Talk:
+  Speakers:
+    - Name: Tushar Kulkarni
+      Email: test.test@owasp.org
+      Image: /assets/images/OWASP_20th_Anniversary.svg
+      URL: https://owasp20thanniversaryevent20.sched.com/
+    #- Name:
+      #Email: test.test@owasp.org
+      #Image: /assets/images/OWASP_20th_Anniversary.svg      
+      #URL: https://owasp20thanniversaryevent20.sched.com/
+  Title: "vAPI : Vulnerable Adversely Programmed Interface (OWASP API Top 10)"
+  TalkURL:
+- Talk:
+  Speakers:
+    - Name: Jan Seredynski
+      Email: test.test@owasp.org
+      Image: /assets/images/OWASP_20th_Anniversary.svg
+      URL: https://owasp20thanniversaryevent20.sched.com/
+    #- Name:
+      #Email: test.test@owasp.org
+      #Image: /assets/images/OWASP_20th_Anniversary.svg      
+      #URL: https://owasp20thanniversaryevent20.sched.com/
+  Title: Unlocking Mobile App Security Secrets
+  TalkURL:
+- Talk:
+  Speakers:
+    - Name: Rob van der Veer
+      Email: test.test@owasp.org
+      Image: /assets/images/20th_Web_Speakers_Link_Rob_Der_Veer.jpeg
+      URL: https://owasp20thanniversaryevent20.sched.com/
+    #- Name:
+      #Email: test.test@owasp.org
+      #Image: /assets/images/OWASP_20th_Anniversary.svg      
+      #URL: https://owasp20thanniversaryevent20.sched.com/
+  Title: The future is simple
+  TalkURL:
+- Talk:
+  Speakers:
+    - Name: Grant Ongers
+      Email: test.test@owasp.org
+      Image: /assets/images/OWASP_20th_Anniversary.svg
+      URL: https://owasp20thanniversaryevent20.sched.com/
+    #- Name:
+      #Email: test.test@owasp.org
+      #Image: /assets/images/OWASP_20th_Anniversary.svg      
+      #URL: https://owasp20thanniversaryevent20.sched.com/
+  Title: Scaling AppSec through Education
+  TalkURL:
+- Talk:
+  Speakers:
+    - Name: Serge Borso
+      Email: test.test@owasp.org
+      Image: /assets/images/OWASP_20th_Anniversary.svg
+      URL: https://owasp20thanniversaryevent20.sched.com/
+    #- Name:
+      #Email: test.test@owasp.org
+      #Image: /assets/images/OWASP_20th_Anniversary.svg      
+      #URL: https://owasp20thanniversaryevent20.sched.com/
+  Title: Running a local Chapter
+  TalkURL:
+- Talk:
+  Speakers:
+    - Name: Jeevan Singh
+      Email: test.test@owasp.org
+      Image: /assets/images/20th_Web_Speakers_Link_Jeevan_Singh.jpeg
+      URL: https://owasp20thanniversaryevent20.sched.com/
+    #- Name:
+      #Email: test.test@owasp.org
+      #Image: /assets/images/OWASP_20th_Anniversary.svg      
+      #URL: https://owasp20thanniversaryevent20.sched.com/
+  Title: Redefining Threat Modeling: Security team goes on vacation
+  TalkURL:
+- Talk:
+  Speakers:
     - Name: Julia Potapenko
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_Julia_Potapenko.jpeg
