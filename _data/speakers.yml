@@ -1,5 +1,77 @@
 - Talk:
   Speakers:
+    - Name: Aharon Abadi
+      Email: test.test@owasp.org
+      Image: /assets/images/OWASP_20th_Anniversary.svg
+      URL: https://owasp20thanniversaryevent20.sched.com/
+    #- Name:
+      #Email: test.test@owasp.org
+      #Image: /assets/images/OWASP_20th_Anniversary.svg      
+      #URL: https://owasp20thanniversaryevent20.sched.com/
+  Title: "Effective Usage Analysis: The Shortest Path Between a Developer and Accelerated Product Releases"
+  TalkURL:
+- Talk:
+  Speakers:
+    - Name: Scott Gerlach
+      Email: test.test@owasp.org
+      Image: /assets/images/OWASP_20th_Anniversary.svg
+      URL: https://owasp20thanniversaryevent20.sched.com/
+    #- Name:
+      #Email: test.test@owasp.org
+      #Image: /assets/images/OWASP_20th_Anniversary.svg      
+      #URL: https://owasp20thanniversaryevent20.sched.com/
+  Title: "Developers Struggle with Application Security (and How to Make It Better)"
+  TalkURL:
+- Talk:
+  Speakers:
+    - Name: Brain Reed
+      Email: test.test@owasp.org
+      Image: /assets/images/OWASP_20th_Anniversary.svg
+      URL: https://owasp20thanniversaryevent20.sched.com/
+    - Name: Brooke Davis
+      Email: test.test@owasp.org
+      Image: /assets/images/OWASP_20th_Anniversary.svg      
+      URL: https://owasp20thanniversaryevent20.sched.com/
+  Title: Creating an IoT-connected Mobile App Compliance Program Leveraging OWASP MASVS
+  TalkURL:
+- Talk:
+  Speakers:
+    - Name: Miguel Calles
+      Email: test.test@owasp.org
+      Image: /assets/images/OWASP_20th_Anniversary.svg
+      URL: https://owasp20thanniversaryevent20.sched.com/
+    #- Name: 
+     # Email: test.test@owasp.org
+      #Image: /assets/images/OWASP_20th_Anniversary.svg      
+      #URL: https://owasp20thanniversaryevent20.sched.com/
+  Title: Costly mistakes in serverless computing
+  TalkURL:
+- Talk:
+  Speakers:
+    - Name: Catalin Curelaru
+      Email: test.test@owasp.org
+      Image: /assets/images/OWASP_20th_Anniversary.svg
+      URL: https://owasp20thanniversaryevent20.sched.com/
+    #- Name: 
+     # Email: test.test@owasp.org
+      #Image: /assets/images/OWASP_20th_Anniversary.svg      
+      #URL: https://owasp20thanniversaryevent20.sched.com/
+  Title: "Connecting the Dots: How Threat Intelligence Protects the Applications"
+  TalkURL:
+- Talk:
+  Speakers:
+    - Name: Jason Kent
+      Email: test.test@owasp.org
+      Image: /assets/images/OWASP_20th_Anniversary.svg
+      URL: https://owasp20thanniversaryevent20.sched.com/
+    #- Name: 
+     # Email: test.test@owasp.org
+      #Image: /assets/images/OWASP_20th_Anniversary.svg      
+      #URL: https://owasp20thanniversaryevent20.sched.com/
+  Title: Common Application Security Mistakes that Enable Automated Attacks
+  TalkURL:
+- Talk:
+  Speakers:
     - Name: Phu Phung
       Email: test.test@owasp.org
       Image: /assets/images/OWASP_20th_Anniversary.svg
