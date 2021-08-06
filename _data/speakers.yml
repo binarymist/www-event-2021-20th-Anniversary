@@ -1,5 +1,17 @@
 - Talk:
   Speakers:
+    - Name: Dr. Abhilasha Vyas
+      Email: test.test@owasp.org
+      Image: /assets/images/OWASP_20th_Anniversary.svg
+      URL: https://owasp20thanniversaryevent20.sched.com/
+   # - Name: Speaker Two
+      #Email: test.test@owasp.org
+      #Image: /assets/images/OWASP_20th_Anniversary.svg      
+      #URL:
+  Title: "Blockchain-based Security Framework for Cyber Physical Systems (BSF-CPS)"
+  TalkURL:
+- Talk:
+  Speakers:
     - Name: Aharon Abadi
       Email: test.test@owasp.org
       Image: /assets/images/OWASP_20th_Anniversary.svg
