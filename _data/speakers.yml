@@ -1,5 +1,17 @@
 - Talk:
   Speakers:
+    - Name: Nick Nikiforakis
+      Email: test.test@owasp.org
+      Image: /assets/images/20th_Web_Speakers_Link_Nick_Nikiforakis.jpeg
+      URL: https://owasp20thanniversaryevent20.sched.com/
+    #- Name:
+      #Email: test.test@owasp.org
+      #Image: /assets/images/OWASP_20th_Anniversary.svg      
+      #URL: https://owasp20thanniversaryevent20.sched.com/
+  Title: "Everything You Always Wanted to Know About Fingerprinting Browser Extensions, But Were Afraid to Ask"
+  TalkURL:
+- Talk:
+  Speakers:
     - Name: Aharon Abadi
       Email: test.test@owasp.org
       Image: /assets/images/OWASP_20th_Anniversary.svg
