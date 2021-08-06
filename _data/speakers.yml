@@ -12,10 +12,45 @@
   TalkURL:
 - Talk:
   Speakers:
+    - Name: Speaker One
+      Email: test.test@owasp.org
+      Image: /assets/images/OWASP_20th_Anniversary.svg
+      URL:
+    - Name: Speaker Two
+      Email: test.test@owasp.org
+      Image: /assets/images/OWASP_20th_Anniversary.svg      
+      URL:
+  Title: Hands-on Cyber in Security
+  TalkURL:
+- Talk:
+  Speakers:
+    - Name: Speaker One
+      Email: test.test@owasp.org
+      Image: /assets/images/OWASP_20th_Anniversary.svg
+      URL:
+    - Name: Speaker Two
+      Email: test.test@owasp.org
+      Image: /assets/images/OWASP_20th_Anniversary.svg      
+      URL:
+  Title: Hands-on Cyber in Security
+  TalkURL:
+- Talk:
+  Speakers:
+    - Name: Luis Quispe Gonzales
+      Email: test.test@owasp.org
+      Image: /assets/images/20th_Web_Speakers_Link_Luis_Q._Gonzales.jpg
+      URL: https://owasp20thanniversaryevent20.sched.com/
+    #- Name: Speaker Two
+     # Email: test.test@owasp.org
+      #Image: /assets/images/OWASP_20th_Anniversary.svg      
+      #URL:
+  Title: All your Ether are belong to us (a.k.a Hacking Ethereum-based DApps)
+  TalkURL:
+- Talk:
+  Speakers:
     - Name: Christian Schneider
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_Christian_Schneider.jpeg
-
       URL: https://owasp20thanniversaryevent20.sched.com/
     #- Name: Speaker Two
       #Email: test.test@owasp.org
