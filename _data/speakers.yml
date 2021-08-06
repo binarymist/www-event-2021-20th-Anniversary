@@ -24,16 +24,16 @@
   TalkURL:
 - Talk:
   Speakers:
-    - Name: Speaker One
+    - Name: Joseph Feiman 
       Email: test.test@owasp.org
-      Image: /assets/images/OWASP_20th_Anniversary.svg
-      URL:
-    - Name: Speaker Two
-      Email: test.test@owasp.org
-      Image: /assets/images/OWASP_20th_Anniversary.svg      
-      URL:
-  Title: Hands-on Cyber in Security
-  TalkURL:
+      Image: /assets/images/20th_Web_Speakers_Link_Joseph_Feiman.jpeg
+      URL: https://owasp20thanniversaryevent20.sched.com/
+    #- Name: Speaker Two
+     # Email: test.test@owasp.org
+     # Image: /assets/images/OWASP_20th_Anniversary.svg      
+     # URL:
+  Title: AppSec Timeline: Wins, Failures, Promises and Predictions
+  #TalkURL:
 - Talk:
   Speakers:
     - Name: Alexander Barabanov
