@@ -1,26 +1,26 @@
 - Talk:
   Speakers:
-    - Name: Speaker One
+    - Name: Aharon Abadi
       Email: test.test@owasp.org
       Image: /assets/images/OWASP_20th_Anniversary.svg
-      URL:
-    - Name: Speaker Two
-      Email: test.test@owasp.org
-      Image: /assets/images/OWASP_20th_Anniversary.svg      
-      URL:
-  Title: Hands-on Cyber in Security
+      URL: https://owasp20thanniversaryevent20.sched.com/
+   # - Name: Speaker Two
+      #Email: test.test@owasp.org
+      #Image: /assets/images/OWASP_20th_Anniversary.svg      
+      #URL:
+  Title: Automatic Vulnerability Remediation: The Trustful and Secure Road to Developer Happiness
   TalkURL:
 - Talk:
   Speakers:
-    - Name: Speaker One
+    - Name: Eitan Worcel
       Email: test.test@owasp.org
       Image: /assets/images/OWASP_20th_Anniversary.svg
-      URL:
-    - Name: Speaker Two
-      Email: test.test@owasp.org
-      Image: /assets/images/OWASP_20th_Anniversary.svg      
-      URL:
-  Title: Hands-on Cyber in Security
+      URL: https://owasp20thanniversaryevent20.sched.com/
+    #- Name: Speaker Two
+      #Email: test.test@owasp.org
+      #Image: /assets/images/OWASP_20th_Anniversary.svg      
+      #URL:
+  Title: Automated Finding Correlation where do SAST, DAST and IAST overlap 
   TalkURL:
 - Talk:
   Speakers:
