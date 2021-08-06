@@ -50,7 +50,7 @@
   Speakers:
     - Name: Christian Schneider
       Email: test.test@owasp.org
-      Image: /assets/images/20th_Web_Speakers_Link_Christian_Schneider.jpeg
+      Image:
       URL: https://owasp20thanniversaryevent20.sched.com/
     #- Name: Speaker Two
       #Email: test.test@owasp.org
