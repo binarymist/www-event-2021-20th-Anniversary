@@ -1,5 +1,17 @@
 - Talk:
   Speakers:
+    - Name: Benjamin Fabre
+      Email: test.test@owasp.org
+      Image: /assets/images/OWASP_20th_Anniversary.svg
+      URL: https://owasp20thanniversaryevent20.sched.com/
+    - Name: Antoine Vastel
+      Email: test.test@owasp.org
+      Image: /assets/images/OWASP_20th_Anniversary.svg      
+      URL: https://owasp20thanniversaryevent20.sched.com/
+  Title: "Bot or human? Detecting malicious bots with machine learning in 2021"
+  TalkURL:
+- Talk:
+  Speakers:
     - Name: Dr. Abhilasha Vyas
       Email: test.test@owasp.org
       Image: /assets/images/OWASP_20th_Anniversary.svg
