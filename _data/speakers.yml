@@ -1,5 +1,197 @@
 - Talk:
   Speakers:
+    - Name: Julia Potapenko
+      Email: test.test@owasp.org
+      Image: /assets/images/20th_Web_Speakers_Link_Julia_Potapenko.jpeg
+      URL: https://owasp20thanniversaryevent20.sched.com/
+    #- Name:
+      #Email: test.test@owasp.org
+      #Image: /assets/images/OWASP_20th_Anniversary.svg      
+      #URL: https://owasp20thanniversaryevent20.sched.com/
+  Title: React Native Security. Addressing typical mistakes
+  TalkURL:
+- Talk:
+  Speakers:
+    - Name: Kim Cater
+      Email: test.test@owasp.org
+      Image: /assets/images/OWASP_20th_Anniversary.svg
+      URL: https://owasp20thanniversaryevent20.sched.com/
+    #- Name:
+      #Email: test.test@owasp.org
+      #Image: /assets/images/OWASP_20th_Anniversary.svg      
+      #URL: https://owasp20thanniversaryevent20.sched.com/
+  Title: Purple Teaming with OWASP Purpleteam
+  TalkURL:
+- Talk:
+  Speakers:
+    - Name: Aaron Ansari
+      Email: test.test@owasp.org
+      Image: /assets/images/OWASP_20th_Anniversary.svg
+      URL: https://owasp20thanniversaryevent20.sched.com/
+    #- Name:
+      #Email: test.test@owasp.org
+      #Image: /assets/images/OWASP_20th_Anniversary.svg      
+      #URL: https://owasp20thanniversaryevent20.sched.com/
+  Title: Preventing an OWASP Top 10 in the world of AI
+  TalkURL:
+- Talk:
+  Speakers:
+    - Name: Riotaro OKADA
+      Email: test.test@owasp.org
+      Image: /assets/images/OWASP_20th_Anniversary.svg
+      URL: https://owasp20thanniversaryevent20.sched.com/
+    #- Name:
+      #Email: test.test@owasp.org
+      #Image: /assets/images/OWASP_20th_Anniversary.svg      
+      #URL: https://owasp20thanniversaryevent20.sched.com/
+  Title: "Post-DevOps, what should we shift-left?"
+  TalkURL:
+- Talk:
+  Speakers:
+    - Name: Florian Stahl
+      Email: test.test@owasp.org
+      Image: /assets/images/OWASP_20th_Anniversary.svg
+      URL: https://owasp20thanniversaryevent20.sched.com/
+    #- Name:
+      #Email: test.test@owasp.org
+      #Image: /assets/images/OWASP_20th_Anniversary.svg      
+      #URL: https://owasp20thanniversaryevent20.sched.com/
+  Title: OWASP Top 10 Privacy Risks 2021
+  TalkURL:
+- Talk:
+  Speakers:
+    - Name: Kevin Wall
+      Email: test.test@owasp.org
+      Image: /assets/images/OWASP_20th_Anniversary.svg
+      URL: https://owasp20thanniversaryevent20.sched.com/
+    #- Name:
+      #Email: test.test@owasp.org
+      #Image: /assets/images/OWASP_20th_Anniversary.svg      
+      #URL: https://owasp20thanniversaryevent20.sched.com/
+  Title: "OWASP ESAPI – A Retrospective: The Good, the Bad, & the Ugly"
+  TalkURL:
+- Talk:
+  Speakers:
+    - Name: Matt Tesauro
+      Email: test.test@owasp.org
+      Image: /assets/images/OWASP_20th_Anniversary.svg
+      URL: https://owasp20thanniversaryevent20.sched.com/
+    #- Name:
+      #Email: test.test@owasp.org
+      #Image: /assets/images/OWASP_20th_Anniversary.svg      
+      #URL: https://owasp20thanniversaryevent20.sched.com/
+  Title: "OWASP DefectDojo - the Heart of your AppSec Automation"
+  TalkURL:
+- Talk:
+  Speakers:
+    - Name: Isabelle Mauny
+      Email: test.test@owasp.org
+      Image: /assets/images/OWASP_20th_Anniversary.svg
+      URL: https://owasp20thanniversaryevent20.sched.com/
+    #- Name:
+      #Email: test.test@owasp.org
+      #Image: /assets/images/OWASP_20th_Anniversary.svg      
+      #URL: https://owasp20thanniversaryevent20.sched.com/
+  Title: "OWASP API Security Top 10 - A Beginner's Guide to Mitigation"
+  TalkURL:
+- Talk:
+  Speakers:
+    - Name: Or Katz
+      Email: test.test@owasp.org
+      Image: /assets/images/OWASP_20th_Anniversary.svg
+      URL: https://owasp20thanniversaryevent20.sched.com/
+    #- Name:
+      #Email: test.test@owasp.org
+      #Image: /assets/images/OWASP_20th_Anniversary.svg      
+      #URL: https://owasp20thanniversaryevent20.sched.com/
+  Title: "Over 20 Years of SQL Injection Attacks in the Wild - Time to Refine and Optimize Web Attack Detection by Using Data Mining Techniques"
+  TalkURL:
+- Talk:
+  Speakers:
+    - Name: Erez Yalon
+      Email: test.test@owasp.org
+      Image: /assets/images/OWASP_20th_Anniversary.svg
+      URL: https://owasp20thanniversaryevent20.sched.com/
+    #- Name:
+      #Email: test.test@owasp.org
+      #Image: /assets/images/OWASP_20th_Anniversary.svg      
+      #URL: https://owasp20thanniversaryevent20.sched.com/
+  Title: Objects In The Rear View Mirror Are Closer Than They Appear
+  TalkURL:
+- Talk:
+  Speakers:
+    - Name: Magno Logan
+      Email: test.test@owasp.org
+      Image: /assets/images/OWASP_20th_Anniversary.svg
+      URL: https://owasp20thanniversaryevent20.sched.com/
+    #- Name:
+      #Email: test.test@owasp.org
+      #Image: /assets/images/OWASP_20th_Anniversary.svg      
+      #URL: https://owasp20thanniversaryevent20.sched.com/
+  Title: "Kubernetes Security: Attacking and Defending K8s Clusters"
+  TalkURL:
+- Talk:
+  Speakers:
+    - Name: Barak Schoster
+      Email: test.test@owasp.org
+      Image: /assets/images/OWASP_20th_Anniversary.svg
+      URL: https://owasp20thanniversaryevent20.sched.com/
+    #- Name:
+      #Email: test.test@owasp.org
+      #Image: /assets/images/OWASP_20th_Anniversary.svg      
+      #URL: https://owasp20thanniversaryevent20.sched.com/
+  Title: "Introducing graph theory to Policy-As-Code"
+  TalkURL:
+- Talk:
+  Speakers:
+    - Name: Vickie Li
+      Email: test.test@owasp.org
+      Image: /assets/images/OWASP_20th_Anniversary.svg
+      URL: https://owasp20thanniversaryevent20.sched.com/
+    #- Name:
+      #Email: test.test@owasp.org
+      #Image: /assets/images/OWASP_20th_Anniversary.svg      
+      #URL: https://owasp20thanniversaryevent20.sched.com/
+  Title: How To Review Code For Vulnerabilities
+  TalkURL:
+- Talk:
+  Speakers:
+    - Name: Stefania Chaplin
+      Email: test.test@owasp.org
+      Image: /assets/images/OWASP_20th_Anniversary.svg
+      URL: https://owasp20thanniversaryevent20.sched.com/
+    #- Name:
+      #Email: test.test@owasp.org
+      #Image: /assets/images/OWASP_20th_Anniversary.svg      
+      #URL: https://owasp20thanniversaryevent20.sched.com/
+  Title: "How Security, Development & Testing can work together to stop the same recurring vulnerabilities appearing in the OWASP Top 10"
+  TalkURL:
+- Talk:
+  Speakers:
+    - Name: Himanshu Dwivedi
+      Email: test.test@owasp.org
+      Image: /assets/images/OWASP_20th_Anniversary.svg
+      URL: https://owasp20thanniversaryevent20.sched.com/
+    #- Name:
+      #Email: test.test@owasp.org
+      #Image: /assets/images/OWASP_20th_Anniversary.svg      
+      #URL: https://owasp20thanniversaryevent20.sched.com/
+  Title: Hack Your APIs in 15 Minutes or Less
+  TalkURL:
+- Talk:
+  Speakers:
+    - Name: Nick Nikiforakis
+      Email: test.test@owasp.org
+      Image: /assets/images/20th_Web_Speakers_Link_Nick_Nikiforakis.jpeg
+      URL: https://owasp20thanniversaryevent20.sched.com/
+    #- Name:
+      #Email: test.test@owasp.org
+      #Image: /assets/images/OWASP_20th_Anniversary.svg      
+      #URL: https://owasp20thanniversaryevent20.sched.com/
+  Title: "Good Bot, Bad Bot: Characterizing Automated Browsing Activity"
+  TalkURL:
+- Talk:
+  Speakers:
     - Name: Daniel Krasnokucki
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_Daniel_Krasnokucki.jpeg
