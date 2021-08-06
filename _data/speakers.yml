@@ -1,5 +1,17 @@
 - Talk:
   Speakers:
+    - Name: Daniel Krasnokucki
+      Email: test.test@owasp.org
+      Image: /assets/images/20th_Web_Speakers_Link_Daniel_Krasnokucki.jpeg
+      URL: https://owasp20thanniversaryevent20.sched.com/
+    #- Name:
+      #Email: test.test@owasp.org
+      #Image: /assets/images/OWASP_20th_Anniversary.svg      
+      #URL: https://owasp20thanniversaryevent20.sched.com/
+  Title: "Feedback loop in DevSecOps - mature security process and dev cooperation"
+  TalkURL:
+- Talk:
+  Speakers:
     - Name: Nick Nikiforakis
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_Nick_Nikiforakis.jpeg
