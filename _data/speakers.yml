@@ -26,11 +26,11 @@
   Speakers:
     - Name: Pedro Fortuna
       Email: test.test@owasp.org
-      Image: 20th_Web_Speakers_Link_Pedro_Fortuna.jpeg
+      Image: /assets/images/20th_Web_Speakers_Link_Pedro_Fortuna.jpeg
       URL: https://owasp20thanniversaryevent20.sched.com/
     - Name: Jasvir Nagra 
       Email: test.test@owasp.org
-      Image: 20th_Web_Speakers_Link_JasvirNagra.jpeg
+      Image: /assets/images/20th_Web_Speakers_Link_JasvirNagra.jpeg
       URL: https://owasp20thanniversaryevent20.sched.com/
   Title: Achieving the Web Isolation Nirvana - How far along are we?
   TalkURL: 
