@@ -1,5 +1,17 @@
 - Talk:
   Speakers:
+    - Name: Phu Phung
+      Email: test.test@owasp.org
+      Image: /assets/images/OWASP_20th_Anniversary.svg
+      URL: https://owasp20thanniversaryevent20.sched.com/
+    #- Name: 
+     # Email: test.test@owasp.org
+      #Image: /assets/images/OWASP_20th_Anniversary.svg      
+      #URL: https://owasp20thanniversaryevent20.sched.com/
+  Title: "Code-Origin Policy: Towards a Formal User Privacy Protection for the Web"
+  TalkURL:
+- Talk:
+  Speakers:
     - Name: Benjamin Fabre
       Email: test.test@owasp.org
       Image: /assets/images/OWASP_20th_Anniversary.svg
