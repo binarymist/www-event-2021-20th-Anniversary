@@ -153,4 +153,8 @@
   url: https://owasp.org/www-project-java-encoder/
   backgroundSize: 125px
   type: Project
-
+- logo: /assets/images/supporters/japan_chapter_logo.png
+  name: OWASP Japan Chapter
+  url: https://owasp.org/www-chapter-japan/
+  backgroundSize: 125px
+  type: Chapter
