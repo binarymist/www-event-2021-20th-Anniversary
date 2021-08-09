@@ -25,12 +25,12 @@
 - image: 20th_Web_Keynotes_Home_Philippe_De_Ryck.jpeg
   name: Philippe De Ryck
   #title:
-  bio: 
+  bio: Philippe De Ryck helps developers protect companies through better web security. His Ph.D. in web security from KU Leuven lies at the basis of his exceptional knowledge of the security landscape. As the founder of Pragmatic Web Security, Philippe delivers security training and security consulting to companies worldwide. His online course platform allows anyone to learn complex security topics at their own pace. Philippe is a Google Developer Expert and an Auth0 Ambassador for his community contributions on the security of web applications and APIs.
   #subject:
   #abstract:
 - image: OWASP_20th_Anniversary.svg
   name: COMING SOON!
   #title:
-  bio: Philippe De Ryck helps developers protect companies through better web security. His Ph.D. in web security from KU Leuven lies at the basis of his exceptional knowledge of the security landscape. As the founder of Pragmatic Web Security, Philippe delivers security training and security consulting to companies worldwide. His online course platform allows anyone to learn complex security topics at their own pace. Philippe is a Google Developer Expert and an Auth0 Ambassador for his community contributions on the security of web applications and APIs.
+  #bio: 
   #subject:
   #abstract:
