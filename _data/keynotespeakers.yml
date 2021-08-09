@@ -22,15 +22,15 @@
   bio: <p>Chris Wysopal, Veracode's CTO and co-founder, is responsible for the company's software security analysis capabilities. One of the original vulnerability researchers and a member of L0pht Heavy Industries, he has testified on Capitol Hill in the US on the subjects of government computer security and how vulnerabilities are discovered in software. He published his first advisory in 1996 on parameter tampering in Lotus Domino and has been trying to help people not repeat this type of mistake for 25 years. Chris started his professional application security journey in 2000 at the pioneering security consultancy @stake where he was VP of Research. Following on with his research in static analysis he founded Veracode with Christien Rioux in 2006. He graduated with a Bachelor of Science degree in computer & systems engineering from Rensselaer Polytechnic Institute. He is also the author of "The Art of Software Security Testing" published by Addison-Wesley.</p>
   #subject:
   #abstract:
-- image: OWASP_20th_Anniversary.svg
-  name: COMING SOON!
+- image: 20th_Web_Keynotes_Home_Philippe_De_Ryck.jpeg
+  name: Philippe De Ryck
   #title:
-  #bio:
+  bio: 
   #subject:
   #abstract:
 - image: OWASP_20th_Anniversary.svg
   name: COMING SOON!
   #title:
-  #bio:
+  bio: Philippe De Ryck helps developers protect companies through better web security. His Ph.D. in web security from KU Leuven lies at the basis of his exceptional knowledge of the security landscape. As the founder of Pragmatic Web Security, Philippe delivers security training and security consulting to companies worldwide. His online course platform allows anyone to learn complex security topics at their own pace. Philippe is a Google Developer Expert and an Auth0 Ambassador for his community contributions on the security of web applications and APIs.
   #subject:
   #abstract:
