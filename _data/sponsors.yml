@@ -128,3 +128,9 @@
   url: https://www.whitesourcesoftware.com/
   backgroundSize: 125px
   type: Premier Sponsor
+- logo: https://owasp.org/assets/images/corp-member-logo/rapid7_logo.png
+  name: Rapid7
+  url: https://www.rapid7.com/
+  backgroundSize: 125px
+  type: Supporting Sponsor 
+
